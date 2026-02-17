@@ -3,7 +3,7 @@
 <h1 align="center">Hi!, I'm Mehak khan</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 📫 How to reach me **mehakkhan997740@gmail.com**
+- How to reach me **mehakkhan997740@gmail.com**
 - All of my projects are available at **https://mehakkhan-potfolio.vercel.app/**
 
 
